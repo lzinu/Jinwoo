@@ -2,4 +2,4 @@
 
 # Group num: 9
 
-My name is Jihun (22100344)
+My name is JihunBaek (22100344)
